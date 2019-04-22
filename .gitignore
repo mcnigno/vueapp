@@ -8,4 +8,4 @@ venv
 ./env
 /../../env
 ~/vueapp/vueapi/env
-env
+env/
