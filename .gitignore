@@ -5,7 +5,6 @@
 env
 venv
 *.sublime*
-./env
-/../../env
-~/vueapp/vueapi/env
 env/
+__pycache__
+*.pyc
