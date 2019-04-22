@@ -5,6 +5,6 @@
 env
 venv
 *.sublime*
-env
+env/
 __pycache__
 *.pyc
