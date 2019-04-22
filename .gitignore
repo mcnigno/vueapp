@@ -1,0 +1,11 @@
+./tmp
+./build/*
+./.idea
+./.idea/*
+env
+venv
+*.sublime*
+./env
+/../../env
+~/vueapp/vueapi/env
+env

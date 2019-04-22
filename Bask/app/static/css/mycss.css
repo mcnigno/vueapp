@@ -1,0 +1,15 @@
+#inputcode {
+
+    text-align: center;
+
+}
+#formcode {
+    text-align: center;
+}
+.card-deck {
+    flex-flow: row wrap; 
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}

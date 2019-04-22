@@ -1,0 +1,24 @@
+{% extends 'appbuilder/baselayout.html' %}
+
+{% block head_css %}
+    {{ super() }}
+    <link href="{{url_for('static',filename='css/mycss.css')}}" rel="stylesheet">
+    
+
+   
+{% endblock %}
+
+{% block head_js %}
+    {{ super() }}
+
+{% endblock %}
+
+{% block tail_js %}
+    {{ super() }}
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="{{url_for('static',filename='js/app.js')}}"></script>
+
+    
+
+    {% endblock %}

@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/Users/dp/vueapp/vueapi/env/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
